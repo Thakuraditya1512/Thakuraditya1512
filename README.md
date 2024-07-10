@@ -17,7 +17,7 @@ Generates a snake game from a GitHub user's contributions graph.
   <source
     media="(prefers-color-scheme: dark)"
     srcset="https://raw.githubusercontent.com/platane/snk/output/github-user-contribution (1).svg"
-    github-user-contribution (1).svg
+   
   />
   <source
     media="(prefers-color-scheme: light)"
@@ -34,6 +34,6 @@ Generates a snake game from a GitHub user's contributions graph.
 
 
 <p align="center">
-  Made with ❤️ by <a href="https://github.com/Thakuraditya1512">Aditya</a>
+  Made with ❤️ by <a href="https://github.com/Thakuraditya1512">Aditya Singh</a>
 </p>
 
