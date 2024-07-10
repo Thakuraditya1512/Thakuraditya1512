@@ -30,9 +30,14 @@ Crafting digital experiences that matter.
   />
 </picture>
 
+<img align="right" alt="GIF" src="https://media.giphy.com/media/3ohzdKvLT1DxFxhZAI/giphy.gif" />
+
 > *pending...*
 
-![Leo's github stats](https://github-readme-stats.vercel.app/api?username=mopig&show_icons=true&theme=dracula&hide=stars,issues)
+![Aditya github stats](https://github-readme-stats.vercel.app/api?username=mopig&show_icons=true&theme=dracula&hide=stars,issues)
+ 
+
+
 
 <details>
   <summary>Click👆</summary>
@@ -40,6 +45,7 @@ Crafting digital experiences that matter.
   🤷‍♂️
   </pre>
 </details>
+
 
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/mopig/mopig)
