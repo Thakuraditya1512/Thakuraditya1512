@@ -16,7 +16,8 @@ Generates a snake game from a GitHub user's contributions graph.
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-user-contribution (1).svg"
+    github-user-contribution (1).svg
   />
   <source
     media="(prefers-color-scheme: light)"
