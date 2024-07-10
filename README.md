@@ -8,7 +8,8 @@
 
 ---
 
-## 🐍 Snake Game from GitHub Contributions Graph
+## 💀 Coder at HOME!!
+##contact me Thakuradityasingh1512@gmail.com
 
 Generates a snake game from a GitHub user's contributions graph.
 
