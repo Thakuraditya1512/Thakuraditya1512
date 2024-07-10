@@ -11,7 +11,8 @@
 ## 💀 Coder at HOME!!
 
 
-Generates a snake game from a GitHub user's contributions graph.
+
+Crafting digital experiences that matter.
 
 <picture>
   <source
