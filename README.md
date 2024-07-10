@@ -10,13 +10,9 @@
 
 ## 💀 Coder at HOME!!
 
-  </div>
+<div align="center">
   <img src="renguku.jpg" alt="Description" style="margin-left: auto; width: 200px;">
 </div>
-
-renguku.jpg
-
-
 
 Crafting digital experiences that matter.
 
@@ -24,11 +20,10 @@ Crafting digital experiences that matter.
   <source
     media="(prefers-color-scheme: dark)"
     srcset="https://raw.githubusercontent.com/platane/snk/output/github-user-contribution (1).svg"
-   
   />
   <source
     media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/platane/snk/output/  github-user-contribution (2).svg"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-user-contribution (2).svg"
   />
   <img
     alt="GitHub contribution grid snake animation"
@@ -41,9 +36,6 @@ Crafting digital experiences that matter.
 > *pending...*
 
 ![Aditya github stats](https://github-readme-stats.vercel.app/api?username=mopig&show_icons=true&theme=dracula&hide=stars,issues)
- 
-
-
 
 <details>
   <summary>Click👆</summary>
@@ -52,11 +44,8 @@ Crafting digital experiences that matter.
   </pre>
 </details>
 
-
-
 ![GitHub last commit](https://img.shields.io/github/last-commit/mopig/mopig)
 ![pv](https://pageview.vercel.app/?github_user=mopig)
-
 
 ## ⚡ Technologies
 
@@ -89,8 +78,6 @@ Crafting digital experiences that matter.
 ![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi)
 
-
 <p align="center">
   Made with ❤️ by <a href="https://github.com/Thakuraditya1512">Aditya Singh</a>
 </p>
-
