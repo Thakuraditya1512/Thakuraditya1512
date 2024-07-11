@@ -40,7 +40,7 @@ Crafting digital experiences that matter.
 <details>
   <summary>Click👆</summary>
   <pre>
-  🤷‍♂️
+  dont worry u will also learn to code someday
   </pre>
 </details>
 
