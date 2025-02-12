@@ -11,7 +11,7 @@
 ## 💀 Coder at HOME!!
 
 <div align="center">
-  <img src="renguku.jpg" alt="Description" style="margin-left: auto; width: 100px; height:70px">
+  <img src="renguku.jpg" alt="Description" style="margin-left: auto; width: auto; height:auto">
 </div>
 
 Crafting digital experiences that matter.
